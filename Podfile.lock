@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.0.0.beta.1)
+  - INTULocationManager (4.3.0)
+  - Toaster (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, branch `alamofire5`)
+  - INTULocationManager
+  - Toaster
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :branch: alamofire5
+    :git: https://github.com/Alamofire/Alamofire.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: d2966e315954a649d689fcd8574cd5da734a90e8
+    :git: https://github.com/Alamofire/Alamofire.git
+
+SPEC CHECKSUMS:
+  Alamofire: 8dc618ab9e6a26d9d77559e4c35e59e56451e69e
+  INTULocationManager: 0ca5c76eacc029ba15938fc699520bc333ed6435
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+
+PODFILE CHECKSUM: 653e13f08dcd1d0b528e8c300c888f6a5c032b6d
+
+COCOAPODS: 1.4.0
